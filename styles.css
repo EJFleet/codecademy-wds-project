@@ -1,0 +1,102 @@
+h1 {
+    font-family: Oswald;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+#heading {
+    text-align: center;
+}
+
+h2 {
+    font-family: "Source Code Pro";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+p {
+    font-family: Lora;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.container {
+    border: #6F5E76;
+    border-style: solid;
+    margin: 20px auto;
+    padding: 20px;
+    display: block;
+    width: 80%
+}
+
+.color-container {
+    display: block;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.violet {
+    background-color: #6F5E76
+}
+
+.cerise {
+    background-color: #DE369D
+}
+
+.pink {
+    background-color: #FF8CC6;
+}
+
+.rose {
+    background-color: #EFD6D2;
+}
+
+.mimi {
+    background-color: #FFDDE2;
+}
+
+.font-panel {
+    width: 30%;
+    display: inline-block;
+    margin: 20px auto;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.Oswald {
+    font-family: Oswald;
+}
+
+.source-code-pro {
+    font-family: "Source Code Pro";
+}
+
+.Lora {
+    font-family: Lora;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.text-panel {
+    display: inline-block;
+    margin: 20px auto;
+    width: 30%;
+}
